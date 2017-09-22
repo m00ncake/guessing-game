@@ -9,12 +9,8 @@
 >- Guess Guess Guess
 
 ##### 3. Version 0.1
->1. **After** Forking
-1. In your terminal verify you are in the proper directory
-  1. You should be in your `lfz` directory
-  1. To check your directory type `pwd` then press <kbd>Enter </kbd>
-    1. You should see something along the lines of:
-    1. `/Applications/MAMP/htdocs/lfz`
-    1. If you are not in the proper directory navigate to the `lfz` folder, if you're not sure how, contact an instructor
-1. Enter the following command into the terminal to clone the `Guess` repo
-  1. `git clone https://github.com/[Your User Name]/guess.git`
+>- A basic functioning app
+
+1. A input field to take in a number
+1. A submit button
+1. A prompt to inform the player whether the number is too hight or too low
